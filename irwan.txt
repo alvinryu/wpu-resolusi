@@ -1,0 +1,5 @@
+Halo salam kenal nama saya irwan dari cirebon
+
+resolusi saya
+- membuat web menggunakan framework django
+- bekerja freelancer

@@ -5,6 +5,9 @@ RENCANA KONTEN WPU
   * Framework Javascript
      ^ Vue
      ^ React
+     ^ jquery
+- Tambah sesi #Ngobar
+- Tambah sesi #tanyapadika
 - Struktur Data Dasar
 - PHP Framework
    ^ Laravel

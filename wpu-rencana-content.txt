@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
 - java
+- Golang
